@@ -1,5 +1,5 @@
 /*!
-	ProgressBar 1.0.1 - 2014-06-04
+	ProgressBar 1.0.2 - 2014-06-04
 	jQuery Tiny Progress Bar
 	(c) 2014, http://tinytools.codesells.com
 	license: http://www.opensource.org/licenses/mit-license.php

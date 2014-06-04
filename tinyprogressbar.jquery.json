@@ -1,5 +1,5 @@
 {
-    "name": "progressbar",
+    "name": "tinyprogressbar",
     "title": "ProgressBar - jQuery Tiny Progress Bar",
     "description": "ProgressBar is a tiny and simple jQuery plugin that displays status of a determinate or indeterminate process.",
     "keywords": [
@@ -14,7 +14,7 @@
 		"ui",
 		"jquery"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "Mehrdad Noroozi Eghbali"
     },
